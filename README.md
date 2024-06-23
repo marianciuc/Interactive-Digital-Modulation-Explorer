@@ -1,6 +1,6 @@
 # Interactive Digital Modulation Explorer
 
-This project, titled "Interactive Digital Modulation Explorer", is developed as part of a course requirement at West Pomeranian University of Technology (ZUT) by Vladimir Marianiuc. The project focuses on simulating various digital modulation techniques, visualizing their processes, and implementing error correction using Hamming codes through an interactive web application built with Dash.
+This project is developed as part of a course requirement at West Pomeranian University of Technology (ZUT) by Vladimir Marianiuc. The project focuses on simulating various digital modulation techniques, visualizing their processes, and implementing error correction using Hamming codes through an interactive web application built with Dash.
 
 ![Modulation Diagram](./assets/img.png)
 
