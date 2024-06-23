@@ -9,6 +9,7 @@ app.title = "Data Transmission"
 app.layout = create_layout()
 
 register_callbacks(app)
+server = app.server
 
 if __name__ == '__main__':
     port = int(os.environ.get('PORT', 8050))
