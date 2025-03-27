@@ -90,7 +90,7 @@ project_root/
 ## Conclusion
 This project provides a comprehensive platform for learning and experimenting with different digital modulation techniques and error correction methods. It not only demonstrates the practical implementation of these techniques but also serves as an educational tool to understand the underlying principles and their impact on data transmission in the presence of noise.
 
-For any inquiries or further information, please contact me at boosth14@gmail.com.
+For any inquiries or further information, please contact me at vladimir.marianciuc.work@gmail.com.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
